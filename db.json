@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "React",
+      "completed": false,
+      "color": "red"
+    },
+    {
+      "text": "Learn Javascript Basics",
+      "completed": false,
+      "id": 4,
+      "color": "red"
+    },
+    {
+      "text": "Javascript",
+      "completed": true,
+      "id": 6,
+      "color": "red"
+    },
+    {
+      "text": "Learn With Sumit",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "text": "lorem ipsum",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "text": "Learn Php",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "text": "Learn Html",
+      "completed": true,
+      "id": 10
+    }
+  ]
+}
