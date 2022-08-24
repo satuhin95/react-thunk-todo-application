@@ -1,7 +1,7 @@
 import { deleted } from "../actions";
 const deleteTodo = (todoId)=>{
     return async( dispatch)=>{
-         await fetch(`http://localhost:9000/todos/${todoId}`,{
+         await fetch(`https://react-todo-applications.herokuapp.com/api/todos/${todoId}`,{
             method:"DELETE",
         });
     
